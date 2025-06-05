@@ -1,0 +1,41 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[ChatLog]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[ChatLog].[DID] is being dropped, data loss could occur.
+       The column [dbo].[ChatLog].[SIS] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[ChatLog] (Default Constraint)
+     Recreate table
+       [dbo].[ChatLog] (Table)
+     Create
+       [dbo].[CommandList] (Table)
+       [dbo].[ControlAppCmd] (Table)
+       Default Constraint: unnamed constraint on [dbo].[CommandList] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[ControlAppCmd] (Default Constraint)
+       [dbo].[Vw_ControlAppCmd] (View)
+       [dbo].[USP_AcceptInvite] (Procedure)
+       [dbo].[USP_AddInvite] (Procedure)
+       [dbo].[USP_DeleteInvite] (Procedure)
+       [dbo].[USP_GetChatLog] (Procedure)
+       [dbo].[USP_GetOptions] (Procedure)
+       [dbo].[USP_SendChat] (Procedure)
+     Alter
+       [dbo].[USP_CmdComplete] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[Usp_GetVerificationReq] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[ChatLog].[DID] is being dropped, data loss could occur.
+The column [dbo].[ChatLog].[SIS] is being dropped, data loss could occur.
+If this deployment is executed, changes to [dbo].[ChatLog] might introduce run-time errors in [dbo].[usp_get_MsgLog].
+

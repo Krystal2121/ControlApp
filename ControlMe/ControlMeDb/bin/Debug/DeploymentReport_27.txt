@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Users] (Table)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_Login] (Procedure)
+       [dbo].[USP_UpdateSettings] (Procedure)
+     Create
+       [dbo].[VarificationReq] (Table)
+       Default Constraint: unnamed constraint on [dbo].[VarificationReq] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       [dbo].[USP_AdminCommandLog] (Procedure)
+       [dbo].[Usp_checkuser] (Procedure)
+       [dbo].[usp_requestvar] (Procedure)
+       [dbo].[usp_varify] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[usp_checkexisting] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_GetGroups] (Procedure)
+       [dbo].[USP_GetUserSettings] (Procedure)
+       [dbo].[USP_Register] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+The column Login Name on table [dbo].[Users] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Password on table [dbo].[Users] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Screen Name on table [dbo].[Users] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Varified on table [dbo].[Users] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Users] (Table)
+       [dbo].[VarificationReq] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[VarificationReq] (Default Constraint)
+       [dbo].[USP_AdminCommandLog] (Procedure)
+       [dbo].[Usp_checkuser] (Procedure)
+       [dbo].[usp_requestvar] (Procedure)
+       [dbo].[usp_varify] (Procedure)
+     Alter
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_Login] (Procedure)
+       [dbo].[USP_UpdateSettings] (Procedure)
+
+** Supporting actions

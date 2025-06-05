@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ChatLog] (Table)
+       [dbo].[ControlAppCmd] (Table)
+       [dbo].[Relationship] (Table)
+       [dbo].[SubContent] (Table)
+       [dbo].[SubReport] (Table)
+       [dbo].[Users] (Table)
+       Default Constraint: unnamed constraint on [dbo].[ChatLog] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[SubContent] (Default Constraint)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+     Alter
+       [dbo].[USP_GetContent] (Procedure)
+       [dbo].[USP_Login] (Procedure)
+
+** Supporting actions

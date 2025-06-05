@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[CmdLog]
+       [dbo].[ControlAppCmd]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[CmdLog] (Table)
+       [dbo].[ControlAppCmd] (Table)
+     Create
+       [dbo].[Block] (Table)
+       [dbo].[Report] (Table)
+       [dbo].[USP_BlockUser] (Procedure)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_Report] (Procedure)
+     Alter
+       [dbo].[USP_CmdComplete] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions

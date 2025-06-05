@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Sub.master.cs" Inherits="ControlMe.Pages.Sub.Sub" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="~/Style/Base.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table style="width: 100%">
+            <tr>
+                <td style="width: 5%">
+                                       <a>Bitcoin request</a><br />
+                   <asp:Image Width="150px" ImageUrl="~/Images/btc.png" runat="server" />
+                </td>
+                <td id="Title"><asp:ImageButton ImageUrl="~/Images/Header.png" runat="server" Height="200px" OnClick="Unnamed_Click" /></td>
+                <td style="width: 5%">
+                <td style="width: 5%">
+                    <asp:Panel ID="NotLoggedPnl" Visible="true" runat="server">
+                        <asp:Button ID="LoginBtn" PostBackUrl="~/Pages/Login.aspx" runat="server" Text="Login" /><br />
+                        <asp:Button ID="Register" PostBackUrl="~/Pages/Register.aspx" runat="server" Text="Register" />
+                    </asp:Panel>
+                    <asp:Panel ID="LoggedInPnl" Visible="false" runat="server">
+                        <asp:Button ID="LogOutBtn" runat="server" Text="Log Out" OnClick="LogOutBtn_Click" />
+                    </asp:Panel>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:10%">
+                    <asp:Button Width="100%" ID="SubMain" PostBackUrl="~/Pages/Sub/SubMain.aspx" Text="Sub Main" runat="server" /><br />
+                    <asp:Button Width="100%" ID="SubControl" PostBackUrl="~/Pages/Sub/SubPage.aspx" Text="Sub-Dom" runat="server"/><br />
+                    <asp:Button Width="100%" ID="SubSetting" PostBackUrl="~/Pages/Sub/SubSettings.aspx" Text="Control App Settings" runat="server"/><br />
+                    <asp:Button Width="100%" ID="Groups" PostBackUrl="~/Pages/Sub/Groups.aspx" Text="Control App Groups" runat="server"/><br />
+                    <asp:Button Width="100%" ID="Admin" PostBackUrl="~/Pages/Sub/Admin.aspx" Text="None" runat="server" Visible="false"/><br />
+                </td>
+                <td style="width: 100%">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>  
+    </form>
+</body>
+</html>

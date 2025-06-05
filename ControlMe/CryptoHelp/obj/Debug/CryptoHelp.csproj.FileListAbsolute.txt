@@ -1,0 +1,12 @@
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\bin\Debug\CryptoHelp.dll
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\bin\Debug\CryptoHelp.pdb
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.csproj.AssemblyReference.cache
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.csproj.CoreCompileInputs.cache
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.dll
+C:\Users\malca\source\repos\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.pdb
+C:\SourceCode\ControlMe\CryptoHelp\bin\Debug\CryptoHelp.dll
+C:\SourceCode\ControlMe\CryptoHelp\bin\Debug\CryptoHelp.pdb
+C:\SourceCode\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.csproj.AssemblyReference.cache
+C:\SourceCode\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.csproj.CoreCompileInputs.cache
+C:\SourceCode\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.dll
+C:\SourceCode\ControlMe\CryptoHelp\obj\Debug\CryptoHelp.pdb

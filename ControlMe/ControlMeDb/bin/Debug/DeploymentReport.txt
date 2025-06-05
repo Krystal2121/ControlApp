@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[SubContent].[Dom_Message_box] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[SubContent] (Table)
+       [dbo].[USP_GetContent] (Procedure)
+       [dbo].[USP_Login] (Procedure)
+     Create
+       [dbo].[ControlAppCmd] (Table)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[SubContent].[Dom_Message_box] is being dropped, data loss could occur.
+

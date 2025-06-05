@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Groups] (Table)
+       [dbo].[UsersGroups] (Table)
+     Alter
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions

@@ -1,0 +1,9 @@
+﻿body {
+}
+#Title {
+    text-align:center;
+    font-size:large;
+}
+#HsBrd td {
+    border: 2px solid;
+}

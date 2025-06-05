@@ -1,0 +1,10 @@
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\bin\Release\SqlHelper.dll
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\bin\Release\SqlHelper.pdb
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\obj\Release\SqlHelper.dll
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\obj\Release\SqlHelper.pdb
+C:\SourceCode\ControlMe\SqlHelper\bin\Release\SqlHelper.dll
+C:\SourceCode\ControlMe\SqlHelper\bin\Release\SqlHelper.pdb
+C:\SourceCode\ControlMe\SqlHelper\obj\Release\SqlHelper.csproj.AssemblyReference.cache
+C:\SourceCode\ControlMe\SqlHelper\obj\Release\SqlHelper.csproj.CoreCompileInputs.cache
+C:\SourceCode\ControlMe\SqlHelper\obj\Release\SqlHelper.dll
+C:\SourceCode\ControlMe\SqlHelper\obj\Release\SqlHelper.pdb

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfF+k/4U6UE2eq7/gIVvdwwAAAAACAAAAAAAQZgAAAAEAACAAAABqdL2fihqBqjN9Dg56dIYq8V6Wx/suctVxEmn+n7JbIgAAAAAOgAAAAAIAACAAAACcAMTddiyGFB1hvdFeMJIjMOkg4FzyeJVA5TRnp8GB6zAAAADuT4QSIDGfZtrmhJDkT7M0+52GJmL+79UWd7Oa2V1el3K10vjF4XufL8+AkiveaDlAAAAAO18CF5EC/PVmz3nWQPCggydjqMKctjGl4bBzp38BNUdH+4+CWUcU9u61OBNmFJb0261MSBTqNFzXxYnwT19mAQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://home240474283.1and1-data.host/u48810209/ControlMe</_PublishTargetUrl>
+    <History>False|2025-02-07T12:39:31.9062824Z||;False|2025-02-07T12:37:45.5735414+00:00||;False|2025-02-07T10:25:08.7641767+00:00||;False|2025-02-07T10:13:33.8586479+00:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AppCommand.aspx">
+      <publishTime>01/10/2025 12:03:50</publishTime>
+    </File>
+    <File Include="AppSendContent.aspx">
+      <publishTime>11/28/2024 08:23:08</publishTime>
+    </File>
+    <File Include="bin/ControlMe.dll">
+      <publishTime>07/02/2025 09:59:06</publishTime>
+    </File>
+    <File Include="bin/ControlMe.pdb">
+      <publishTime>07/02/2025 09:59:06</publishTime>
+    </File>
+    <File Include="bin/CryptoHelp.dll">
+      <publishTime>07/02/2025 09:59:05</publishTime>
+    </File>
+    <File Include="bin/CryptoHelp.pdb">
+      <publishTime>07/02/2025 09:59:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/SqlHelper.dll">
+      <publishTime>07/02/2025 09:59:05</publishTime>
+    </File>
+    <File Include="bin/SqlHelper.pdb">
+      <publishTime>07/02/2025 09:59:05</publishTime>
+    </File>
+    <File Include="BlockReport.aspx">
+      <publishTime>01/21/2025 22:24:32</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/06/2025 23:34:03</publishTime>
+    </File>
+    <File Include="DeleteOut.aspx">
+      <publishTime>12/17/2024 11:32:04</publishTime>
+    </File>
+    <File Include="GetContent.aspx">
+      <publishTime>01/02/2025 00:30:27</publishTime>
+    </File>
+    <File Include="GetCount.aspx">
+      <publishTime>01/02/2025 09:14:22</publishTime>
+    </File>
+    <File Include="GetOptions.aspx">
+      <publishTime>05/01/2025 20:58:46</publishTime>
+    </File>
+    <File Include="Images/btc.png">
+      <publishTime>12/10/2024 12:25:35</publishTime>
+    </File>
+    <File Include="Images/Header.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Messages.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="NGROK.aspx">
+      <publishTime>01/12/2024 23:52:59</publishTime>
+    </File>
+    <File Include="Pages/ControlPC.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Dom/Dom.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Dom/DomMain.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Dom/DomPage.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Login.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Register.aspx">
+      <publishTime>12/02/2024 00:18:52</publishTime>
+    </File>
+    <File Include="Pages/Sub/Admin.aspx">
+      <publishTime>02/06/2025 21:07:10</publishTime>
+    </File>
+    <File Include="Pages/Sub/Groups.aspx">
+      <publishTime>12/12/2024 12:45:01</publishTime>
+    </File>
+    <File Include="Pages/Sub/Sub.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Sub/SubMain.aspx">
+      <publishTime>01/03/2025 10:32:44</publishTime>
+    </File>
+    <File Include="Pages/Sub/SubPage.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Pages/Sub/SubSettings.aspx">
+      <publishTime>01/02/2025 09:29:07</publishTime>
+    </File>
+    <File Include="ProcessComplete.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Style/Base.css">
+      <publishTime>12/02/2024 16:45:31</publishTime>
+    </File>
+    <File Include="Style/DomStyle.css">
+      <publishTime>05/05/2023 10:53:32</publishTime>
+    </File>
+    <File Include="Style/SubStyle.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Upload.aspx">
+      <publishTime>06/02/2025 12:35:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/02/2025 12:38:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

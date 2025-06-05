@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[FileStore]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[FileStore].[FileID] is being dropped, data loss could occur.
+       The column [dbo].[FileStore].[CmdId] on table [dbo].[FileStore] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[FileStore] (Default Constraint)
+     Recreate table
+       [dbo].[FileStore] (Table)
+     Alter
+       [dbo].[USP_SendAppCmd] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[FileStore].[FileID] is being dropped, data loss could occur.
+The column [dbo].[FileStore].[CmdId] on table [dbo].[FileStore] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

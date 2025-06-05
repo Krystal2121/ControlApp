@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[VarificationReq] (Table)
+       [dbo].[USP_GetChatLog] (Procedure)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_SendChat] (Procedure)
+     Create
+       [dbo].[USP_GetRels] (Procedure)
+       [dbo].[usp_tidyup] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[Usp_checkuser] (Procedure)
+       [dbo].[Usp_GetVerificationReq] (Procedure)
+       [dbo].[usp_requestvar] (Procedure)
+       [dbo].[usp_varify] (Procedure)

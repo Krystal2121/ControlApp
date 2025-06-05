@@ -1,0 +1,54 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[ChatLog]
+       [dbo].[ControlAppCmd]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[ChatLog].[DID] is being dropped, data loss could occur.
+       The column [dbo].[ChatLog].[SIS] is being dropped, data loss could occur.
+       The column [dbo].[ControlAppCmd].[Content] is being dropped, data loss could occur.
+       The column [dbo].[ControlAppCmd].[SendDate] is being dropped, data loss could occur.
+       The column [dbo].[ControlAppCmd].[CmdId] on table [dbo].[ControlAppCmd] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[ChatLog] (Default Constraint)
+       unnamed constraint on [dbo].[ControlAppCmd] (Default Constraint)
+       unnamed constraint on [dbo].[ControlAppCmd] (Default Constraint)
+     Recreate table
+       [dbo].[ChatLog] (Table)
+       [dbo].[ControlAppCmd] (Table)
+     Create
+       [dbo].[CommandList] (Table)
+       Default Constraint: unnamed constraint on [dbo].[CommandList] (Default Constraint)
+       [dbo].[Vw_ControlAppCmd] (View)
+       [dbo].[USP_AcceptInvite] (Procedure)
+       [dbo].[USP_AddInvite] (Procedure)
+       [dbo].[USP_DeleteInvite] (Procedure)
+       [dbo].[USP_GetChatLog] (Procedure)
+       [dbo].[USP_GetOptions] (Procedure)
+       [dbo].[USP_SendChat] (Procedure)
+     Alter
+       [dbo].[USP_CmdComplete] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+       [dbo].[Usp_GetVerificationReq] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[USP_DeleteOutstanding] (Procedure)
+
+The column [dbo].[ChatLog].[DID] is being dropped, data loss could occur.
+The column [dbo].[ChatLog].[SIS] is being dropped, data loss could occur.
+The column [dbo].[ControlAppCmd].[Content] is being dropped, data loss could occur.
+The column [dbo].[ControlAppCmd].[SendDate] is being dropped, data loss could occur.
+The column [dbo].[ControlAppCmd].[CmdId] on table [dbo].[ControlAppCmd] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+If this deployment is executed, changes to [dbo].[ChatLog] might introduce run-time errors in [dbo].[usp_get_MsgLog].
+

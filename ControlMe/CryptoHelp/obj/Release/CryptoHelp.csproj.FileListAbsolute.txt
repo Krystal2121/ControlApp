@@ -1,0 +1,6 @@
+C:\SourceCode\ControlMe\CryptoHelp\bin\Release\CryptoHelp.dll
+C:\SourceCode\ControlMe\CryptoHelp\bin\Release\CryptoHelp.pdb
+C:\SourceCode\ControlMe\CryptoHelp\obj\Release\CryptoHelp.csproj.AssemblyReference.cache
+C:\SourceCode\ControlMe\CryptoHelp\obj\Release\CryptoHelp.csproj.CoreCompileInputs.cache
+C:\SourceCode\ControlMe\CryptoHelp\obj\Release\CryptoHelp.dll
+C:\SourceCode\ControlMe\CryptoHelp\obj\Release\CryptoHelp.pdb

@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[FileStore] (Table)
+       Default Constraint: unnamed constraint on [dbo].[FileStore] (Default Constraint)
+     Alter
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_Report] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions

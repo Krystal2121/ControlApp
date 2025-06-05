@@ -1,0 +1,17 @@
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\Users\malca\Source\Workspaces\Websites\Unlondon\SqlHelper\obj\Debug\SqlHelper.csprojAssemblyReference.cache
+C:\Users\malca\source\repos\ControlMe\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\malca\source\repos\ControlMe\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\malca\source\repos\ControlMe\SqlHelper\obj\Debug\SqlHelper.csproj.AssemblyReference.cache
+C:\Users\malca\source\repos\ControlMe\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\malca\source\repos\ControlMe\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\malca\source\repos\ControlMe\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\SourceCode\ControlMe\SqlHelper\bin\Debug\SqlHelper.dll
+C:\SourceCode\ControlMe\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\SourceCode\ControlMe\SqlHelper\obj\Debug\SqlHelper.csproj.AssemblyReference.cache
+C:\SourceCode\ControlMe\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+C:\SourceCode\ControlMe\SqlHelper\obj\Debug\SqlHelper.dll
+C:\SourceCode\ControlMe\SqlHelper\obj\Debug\SqlHelper.pdb

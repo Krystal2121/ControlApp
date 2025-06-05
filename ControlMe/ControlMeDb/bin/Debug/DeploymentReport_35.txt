@@ -1,0 +1,51 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Users] (Table)
+       [dbo].[VarificationReq] (Table)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[Usp_GetVerificationReq] (Procedure)
+       [dbo].[USP_Login] (Procedure)
+     Create
+       [dbo].[usp_bestsender] (Procedure)
+       [dbo].[USP_GetAllAppContent] (Procedure)
+       [dbo].[usp_thumbsup] (Procedure)
+       [dbo].[usp_userinfo] (Procedure)
+       [dbo].[usp_veriySent] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[USP_AcceptInvite] (Procedure)
+       [dbo].[USP_AddInvite] (Procedure)
+       [dbo].[USP_AdminCommandLog] (Procedure)
+       [dbo].[usp_checkexisting] (Procedure)
+       [dbo].[Usp_checkuser] (Procedure)
+       [dbo].[USP_DeleteInvite] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_GetChatLog] (Procedure)
+       [dbo].[USP_GetDom] (Procedure)
+       [dbo].[USP_GetGroups] (Procedure)
+       [dbo].[USP_GetInvites] (Procedure)
+       [dbo].[USP_GetInvites2] (Procedure)
+       [dbo].[USP_GetRels] (Procedure)
+       [dbo].[USP_GetSub] (Procedure)
+       [dbo].[USP_GetUserSettings] (Procedure)
+       [dbo].[USP_Register] (Procedure)
+       [dbo].[usp_requestvar] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+       [dbo].[USP_SendChat] (Procedure)
+       [dbo].[USP_UpdateSettings] (Procedure)
+       [dbo].[usp_varify] (Procedure)
+       [dbo].[usp_tidyup] (Procedure)
+
+If this deployment is executed, changes to [dbo].[Users] might introduce run-time errors in [dbo].[usp_get_MsgLog].
+

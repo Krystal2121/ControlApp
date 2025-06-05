@@ -1,0 +1,10 @@
+C:\SourceCode\ControlMe\ControlMeDb\bin\Release\ControlMeDb.dacpac
+C:\SourceCode\ControlMe\ControlMeDb\bin\Release\ControlMeDb.dll
+C:\SourceCode\ControlMe\ControlMeDb\bin\Release\ControlMeDb.pdb
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\ControlMeDb.sqlproj.AssemblyReference.cache
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\Model.xml
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\refactor.xml
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\postdeploy.sql
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\predeploy.sql
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\ControlMeDb.dll
+C:\SourceCode\ControlMe\ControlMeDb\obj\Release\ControlMeDb.pdb

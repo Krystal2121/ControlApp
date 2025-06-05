@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[CmdLog]
+       [dbo].[ControlAppCmd]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[CmdLog].[SenderID] on table [dbo].[CmdLog] must be added, but the column has no default value and does
+         not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either:
+         add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a
+         deployment option.
+       The column [dbo].[ControlAppCmd].[SenderId] on table [dbo].[ControlAppCmd] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Recreate table
+       [dbo].[CmdLog] (Table)
+       [dbo].[ControlAppCmd] (Table)
+     Create
+       [dbo].[Block] (Table)
+       [dbo].[Report] (Table)
+       [dbo].[USP_BlockUser] (Procedure)
+       [dbo].[USP_GetOutstanding] (Procedure)
+       [dbo].[USP_Report] (Procedure)
+     Alter
+       [dbo].[USP_CmdComplete] (Procedure)
+       [dbo].[USP_GetAppContent] (Procedure)
+       [dbo].[USP_SendAppCmd] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[CmdLog].[SenderID] on table [dbo].[CmdLog] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[ControlAppCmd].[SenderId] on table [dbo].[ControlAppCmd] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceCode\\ControlMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|c:\\sourcecode\\controlme\\controlme\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\sub\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\sub\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\sub\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\sub\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\hiddenhelper.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\hiddenhelper.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\hiddenhelper.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\hiddenhelper.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\controlpc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\controlpc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\controlpc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\controlpc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35C5ABB-908C-464D-ADE9-7B4AAE179B3D}|CryptoHelp\\CryptoHelp.csproj|C:\\SourceCode\\ControlMe\\cryptohelp\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35C5ABB-908C-464D-ADE9-7B4AAE179B3D}|CryptoHelp\\CryptoHelp.csproj|solutionrelative:cryptohelp\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\dom\\dommain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\dom\\dommain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\sub\\submain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\sub\\submain.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\dom\\dommain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\dom\\dommain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|C:\\SourceCode\\ControlMe\\controlme\\pages\\sub\\submain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C2D78E8-A020-4DE3-8694-FCECEFB72735}|ControlMe\\ControlMe.csproj|solutionrelative:controlme\\pages\\sub\\submain.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D468727-48A1-4ECE-97B9-62BB5011CF14}|ControlMeDb\\ControlMeDb.sqlproj|C:\\SourceCode\\ControlMe\\ControlMeDb\\usp_bestsender.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6D468727-48A1-4ECE-97B9-62BB5011CF14}|ControlMeDb\\ControlMeDb.sqlproj|solutionrelative:ControlMeDb\\usp_bestsender.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Register.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Register.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Register.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T20:02:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HiddenHelper.aspx.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\HiddenHelper.aspx.cs",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\HiddenHelper.aspx.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\HiddenHelper.aspx.cs",
+              "RelativeToolTip": "ControlMe\\Pages\\HiddenHelper.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:56:39.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HiddenHelper.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\HiddenHelper.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\HiddenHelper.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\HiddenHelper.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\HiddenHelper.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T19:54:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlPC.aspx.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\ControlPC.aspx.cs",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\ControlPC.aspx.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\ControlPC.aspx.cs",
+              "RelativeToolTip": "ControlMe\\Pages\\ControlPC.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:51:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlPC.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\ControlPC.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\ControlPC.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\ControlPC.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\ControlPC.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T19:49:20.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CryptoHelper.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\CryptoHelp\\CryptoHelper.cs",
+              "RelativeDocumentMoniker": "CryptoHelp\\CryptoHelper.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\CryptoHelp\\CryptoHelper.cs",
+              "RelativeToolTip": "CryptoHelp\\CryptoHelper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:48:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomMain.aspx.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Dom\\DomMain.aspx.cs",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Dom\\DomMain.aspx.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Dom\\DomMain.aspx.cs",
+              "RelativeToolTip": "ControlMe\\Pages\\Dom\\DomMain.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:51:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomMain.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Dom\\DomMain.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Dom\\DomMain.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Dom\\DomMain.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\Dom\\DomMain.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T10:51:17.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Web.config",
+              "RelativeDocumentMoniker": "ControlMe\\Web.config",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Web.config",
+              "RelativeToolTip": "ControlMe\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-28T10:41:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "usp_bestsender.sql",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMeDb\\usp_bestsender.sql",
+              "RelativeDocumentMoniker": "ControlMeDb\\usp_bestsender.sql",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMeDb\\usp_bestsender.sql\r\n(localdb)\\ProjectModels.ControlMeDb\r\n(IANDESKTOP\\malca)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-28T10:30:34.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubMain.aspx.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\SubMain.aspx.cs",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Sub\\SubMain.aspx.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\SubMain.aspx.cs",
+              "RelativeToolTip": "ControlMe\\Pages\\Sub\\SubMain.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:31:39.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubMain.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\SubMain.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Sub\\SubMain.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\SubMain.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\Sub\\SubMain.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T10:29:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Sub\\Admin.aspx.cs",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\Admin.aspx.cs",
+              "RelativeToolTip": "ControlMe\\Pages\\Sub\\Admin.aspx.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwIcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:11:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\Admin.aspx",
+              "RelativeDocumentMoniker": "ControlMe\\Pages\\Sub\\Admin.aspx",
+              "ToolTip": "C:\\SourceCode\\ControlMe\\ControlMe\\Pages\\Sub\\Admin.aspx",
+              "RelativeToolTip": "ControlMe\\Pages\\Sub\\Admin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T11:10:38.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
