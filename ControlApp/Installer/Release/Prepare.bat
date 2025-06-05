@@ -1,0 +1,13 @@
+del C:\ControlApp\runtimes
+del C:\ControlApp\App.ico
+del C:\ControlApp\AxInterop.WMPLib.dll
+del C:\ControlApp\ControlApp.deps.json
+del C:\ControlApp\ControlApp.dll
+del C:\ControlApp\ControlApp.exe
+del C:\ControlApp\ControlApp.pdb
+del C:\ControlApp\ControlApp.runtimeconfig.json
+del C:\ControlApp\Interop.WMPLib.dll
+del C:\ControlApp\System.Configuration.ConfigurationManager.dll
+del C:\ControlApp\System.Diagnostics.EventLog.dll
+del C:\ControlApp\System.Security.Cryptography.ProtectedData.dll
+del C:\ControlApp\System.Speech.dll

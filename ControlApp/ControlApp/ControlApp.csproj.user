@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Audiopop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfigSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ControlApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Other.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sendcmd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendOrDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Spinner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subliminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubLoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WatchForMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Webform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WriteForMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Audiopop.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ConfigSettingsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CustomMessage.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ControlApp.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Options.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PopUp.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="sendcmd.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Subliminal.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="WatchForMe.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="WriteForMe.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
